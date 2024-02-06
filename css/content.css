@@ -1,0 +1,42 @@
+#profileContentDiv{
+    border: 1px solid #fff;
+    background-color: lightgray;
+    padding: 10px;
+}
+#profileDiv{
+    border: 1px solid lightblue;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#profileImg{
+    border-radius: 50%;
+}
+.info{
+    margin: 10px;
+}
+.reposDiv{
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid lightcyan;
+    padding: 10px;
+}
+#searchedUserDiv{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid lightcyan;
+    padding: 10px;
+}
+#searchMain{
+    display: flex;
+    flex-direction: row;
+}
+#todaySentenceDiv{
+    margin: 65px;
+    background-color: #fff;
+    border: 1px solid lightcyan;
+}
