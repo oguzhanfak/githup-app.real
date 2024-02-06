@@ -1,1 +1,1 @@
-# githup-app.real
+You can search Github users his/her shows up, and then you can see them repositories when you click the link then you can close the repos. Also you can the seached person's followers, following, where he/she works, or email addreasses.
